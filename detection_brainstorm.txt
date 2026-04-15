@@ -1,0 +1,17 @@
+Assignment: Detection Brainstorm
+
+5 Uses of Face/Object Detection:
+1. Face unlock in smartphones
+2. Attendance system using face recognition
+3. Self-driving cars detecting pedestrians
+4. Security surveillance systems
+5. Online shopping (virtual try-on)
+
+Designed Solution:
+Smart Attendance System using Face Detection
+
+- Camera captures student face
+- Detects and recognizes face
+- Marks attendance automatically
+- Stores data in database
+- Reduces manual work and errors
